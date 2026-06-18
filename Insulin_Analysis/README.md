@@ -2,6 +2,8 @@
 
 This project focuses on the structural analysis of Insulin using PyMOL.
 
+## PDB ID: 1BEN
+
 ## Methodology
 - Utilized PyMOL Measurement Wizard to calculate the distance between atoms.
 - Specifically analyzed the coordinate bond between the Zinc metal ion and the Histidine amino acid residue in the insulin protein.
