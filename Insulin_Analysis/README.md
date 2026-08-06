@@ -12,4 +12,4 @@ This project focuses on the structural analysis of Insulin using PyMOL.
 - The measured bond distance is 2.1 Å, which is critical for the formation and stabilization of the Insulin Hexamer.
 
 ## Visual Analysis
-![Insulin Zink Bond](insulin_Zink_Bond.png)
+![Insulin Zinc Bond](insulin_Zinc_Bond.png)
