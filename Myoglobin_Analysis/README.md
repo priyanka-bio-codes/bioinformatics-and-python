@@ -29,10 +29,10 @@ A publication-grade 3D molecular visualization and spatial measurement analysis 
 
 | Interaction / Atom Pair | Structural Role | Measured Distance (Å) |
 | :--- | :--- | :--- |
-| **Fe²⁺ — Nε2 (His-93)** | Proximal Histidine Coordination | **~ 2.10 Å** |
-| **Fe²⁺ — O₂ Ligand Zone** | Gas Binding / Active Site Pocket | **~ 1.83 Å - 2.05 Å** |
-| **Nε2 (His-64) — Bound O₂** | Distal Hydrogen Bonding Stabilization | **~ 2.70 Å - 2.80 Å** |
-| **Heme Propionate — Arg-45 / Ser-92** | Polar Pocket Stabilization | **~ 2.65 Å - 3.10 Å** |
+| **Fe²⁺ — Nε2 (His-93)** | Proximal Histidine Coordination | ~ 2.10 Å |
+| **Fe²⁺ — O₂ Ligand Zone** | Gas Binding / Active Site Pocket | ~ 1.83 Å - 2.05 Å |
+| **Nε2 (His-64) — Bound O₂** | Distal Hydrogen Bonding Stabilization | ~ 2.70 Å - 2.80 Å |
+| **Heme Propionate — Arg-45 / Ser-92** | Polar Pocket Stabilization | ~ 2.65 Å - 3.10 Å |
 
 ---
 
