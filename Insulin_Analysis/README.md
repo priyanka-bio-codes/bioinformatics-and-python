@@ -16,3 +16,4 @@ This repository focuses on the structural and metalloprotein analysis of the Ins
 
 ## 🖼️ Visual Analysis
 *Below is the high-resolution 3D macromolecular visualization showing the structural ribbon of Insulin (green), active side-chain Histidine sticks (blue), central Zinc atoms (grey spheres), and the calculated 2.1 Å coordination boundary.*
+![Insulin Project Analysis](insulin_zinc_bond.png)
